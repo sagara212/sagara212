@@ -2,9 +2,7 @@
 
 <!-- Consider adding a banner image here, e.g., a space/tech theme or abstract data visualization -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Aspiring+Data+Scientist+%26+Machine+Learning+Specialist;Transforming+data+into+impactful+solutions;Exploring+the+frontiers+of+AI+and+sustainable+tech&center=true&width=650&height=50" alt="Typing SVG" />
-</div>
+
 
 Aspiring Data Scientist and Machine Learning Specialist focused on utilizing data to drive impactful changes. Skilled in Python, SQL, and data visualization tools like Tableau and Looker Studio. Experienced in leading projects that align with sustainability goals, including renewable energy and healthcare analytics. Runner-up 1st in the Startup Campus Final Project Showcase, demonstrating the ability to deliver innovative, data-driven solutions. Adept at communication, problem-solving, and collaboration, with a passion for leveraging data insights to solve complex challenges.
 
@@ -80,25 +78,6 @@ Feel free to reach out if you have any questions or would like to collaborate on
 
 <p align="center"><img src="https://raw.githubusercontent.com/matyo91/matyo91/main/visuals/line-min.gif" width="500"></p>
 
-## 🏅 Mission Accomplishments: Certifications & Recognitions
-
-### 📜 Certifications Awarded
-
-| Certification Name                               | Issuing Organization        | Platform/Provider   |
-| :----------------------------------------------- | :-------------------------- | :------------------ |
-| Data Science: Greener Future With Data-Driven    | Startup Campus 🏢           | Startup Campus      |
-| Fundamental of Deep Learning                     | NVIDIA 💻                   | NVIDIA              |
-| Time Series Analysis with Python                 | 365 Data Science 📊         | 365 Data Science    |
-| ASEAN Data Science Explorer 2024                 | ASEAN Foundation 🌐         | ASEAN Foundation    |
-| Microsoft Certified: Azure AI Fundamentals       | Microsoft 💻                | Mereka              |
-| Belajar Dasar Data Science                       | Dicoding 💻                 | Dicoding            |
-| Belajar Machine Learning Untuk Pemula            | Dicoding 💻                 | Dicoding            |
-| Memulai Pemrograman Dengan Python                | Dicoding 💻                 | Dicoding            |
-| Belajar Dasar Sql                                | Dicoding 💻                 | Dicoding            |
-| Belajar Dasar Visualisasi Data                   | Dicoding 💻                 | Dicoding            |
-| Belajar Analysis Data dengan Python              | Dicoding 💻                 | Dicoding            |
-| Python Lanjutan                                  | Skilvul 💻                  | Skilvul             |
-| Algorithm And Data Structures With Python        | Skilvul 💻                  | Skilvul             |
 
 ### 🏆 Key Milestones
 
